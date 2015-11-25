@@ -55,5 +55,7 @@
         "args": {"to": "brackets"}
     },
 
+    { "keys": ["super+shift+7"], "command": "toggle_comment", "args": { "block": false } },
+
 	{ "keys": ["ctrl+super+k"], "command": "alignment" }
 ]
