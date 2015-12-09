@@ -1,20 +1,27 @@
 {
 	"folder_history":
 	[
-		"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc"
+		"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc",
+		"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit",
+		"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi",
+		"/Users/sigurdsvela/Documents/Projects/mekom/loqi"
 	],
 	"last_version": 3083,
-	"last_window_id": 2,
+	"last_window_id": 24,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 678.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"produ",
+						"products"
+					]
 				]
 			},
 			"build_system_choices":
@@ -23,27 +30,46 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 147.0,
-				"last_filter": "Insta",
+				"height": 354.0,
+				"last_filter": "si",
 				"selected_items":
 				[
+					[
+						"si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
 					[
 						"Insta",
 						"Package Control: Install Package"
 					],
 					[
-						"Align",
+						"Packa",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 504.0
+				"width": 575.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -57,18 +83,28 @@
 			},
 			"file_history":
 			[
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+				"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit/core/postWrapper/PublicationWrapper.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit/templates/content-tableviewer-digital.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/src/js/ProductView.js",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/core/Product.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/home.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/dist/css/base/main.css",
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/functions.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/NrccUser.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/Movefile",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-config.php",
+				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 158.0,
 				"where_history":
 				[
+					"/Users/sigurdsvela/Documents/Projects/mekom/loqi"
 				]
 			},
 			"find_state":
@@ -76,11 +112,15 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					",\n",
+					"word-wrap:\\w*break-word;\\w*white-space:\\w*pre-wrap;",
+					"word-wrap: break-word; white-space: pre-wrap;",
+					"style=\"word-wrap: break-word; white-space: pre-wrap;\""
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
 				],
@@ -92,11 +132,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 30.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 68.0
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -106,7 +146,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -115,6 +155,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"school",
+						"core/nrcc/post/School.php"
+					],
+					[
+						"func",
+						"functions.php"
+					],
+					[
+						"publication",
+						"core/postWrapper/PublicationWrapper.php"
+					],
+					[
+						"table",
+						"templates/content-tableviewer-digital.php"
+					],
+					[
+						"tableview",
+						"templates/content-tableviewer-digital.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -140,13 +200,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 221.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 1308.0
 	},
 	"windows":
 	[
@@ -155,93 +215,27 @@
 			{
 				"selected_items":
 				[
+					[
+						"produ",
+						"products"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/NrccUser.php",
-					"settings":
-					{
-						"buffer_size": 6690,
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/functions.php",
 					"settings":
 					{
-						"buffer_size": 4309,
+						"buffer_size": 7264,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/post/School.php",
 					"settings":
 					{
-						"buffer_size": 566,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  Material Theme for Sublime Text 3\n  \n  For more information on the Material Theme: https://github.com/equinusocio/material-theme\n  \n  **********************************************************************************************\n  \n  If installing manually (not through Package Control), add the following to your \n  Settings - User file and restart Sublime Text after:\n  \n  {\n    \"theme\": \"Material-Theme.sublime-theme\",\n    \"color_scheme\": \"Packages/Material Theme/schemes/Material-Theme.tmTheme\",\n  }\n  \n  **********************************************************************************************\n  \n  This theme includes a Darker and Lighter version:\n  \n  Darker version:\n  \n  {\n    \"theme\": \"Material-Theme-Darker.sublime-theme\",\n    \"color_scheme\": \"Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme\",\n  }\n  \n  Lighter version:\n  \n  {\n    \"theme\": \"Material-Theme-Lighter.sublime-theme\",\n    \"color_scheme\": \"Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme\",\n  }\n  \n  **********************************************************************************************\n  \n  Recommended UI and font settings for a better experience:\n  \n  {\n    \"overlay_scroll_bars\": \"enabled\",\n    \"line_padding_top\": 3,\n    \"line_padding_bottom\": 3,\n    \"always_show_minimap_viewport\": true,\n    \"bold_folder_labels\": true,\n    \"indent_guide_options\": [ \"draw_normal\", \"draw_active\" ]    // Highlight active indent\n    \"font_options\": [ \"gray_antialias\" ],                       // For retina Mac\n  }\n  \n  **********************************************************************************************\n  \n  Other available theme options:\n  \n  \"material_theme_small_tab\": true,                           // Set small tabs\n  \"material_theme_disable_fileicons\": true,                   // Hide siderbar file type icons\n  \"material_theme_disable_folder_animation\": true,            // Disable folder animation\n  \"material_theme_small_statusbar\": true,                     // Set small status bar\n  \"material_theme_disable_tree_indicator\": true,              // Disable sidebar file indicator\n  \"material_theme_bold_tab\": true,                            // Make the tab labels bolder\n  \"material_theme_tabs_separator\": true,                      // Show tabs separator\n  \"material_theme_accent_lime\": true,                         // set green lime accent color\n  \"material_theme_accent_purple\": true,                       // set purple accent color\n  \"material_theme_accent_red\": true,                          // set pale red accent color\n  \"material_theme_accent_orange\": true,                       // set orange accent color\n  \"material_theme_accent_yellow\": true,                       // set yellow accent color\n  \"material_theme_panel_separator\": true,                     // show bottom panel separator\n  \"material_theme_tabs_autowidth\": true,                      // Enable autowidth for tabs\n  \"material_theme_contrast_mode\": true,                       // Enable sidebar and panels contrast mode\n",
-					"settings":
-					{
-						"buffer_size": 3103,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 1130,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/import-tags.php",
-					"settings":
-					{
-						"buffer_size": 4524,
-						"line_ending": "Unix",
-						"name": "import-tags.php"
-					}
-				},
-				{
-					"contents": "accounting                          ; Accounting\nairlines_aviation                   ; Airlines/Aviation\nalternative_dispute_resolution      ; Alternative Dispute Resolution\nalternative_medicine                ; Alternative Medicine\nanimation                           ; Animation\napparel_and_fashion                 ; Apparel & Fashion\narchitecture_and_planning           ; Architecture & Planning\narts_and_crafts                     ; Arts and Crafts\nautomotive                          ; Automotive\naviation_and_aerospace              ; Aviation & Aerospace\nbanking                             ; Banking\nbiotechnology                       ; Biotechnology\nbroadcast_media                     ; Broadcast Media\nbuilding_materials                  ; Building Materials\nbusiness_supplies_and_equipment     ; Business Supplies and Equipment\ncapital_markets                     ; Capital Markets\nchemicals                           ; Chemicals\ncivic_and_social_organization       ; Civic & Social Organization\ncivil_engineering                   ; Civil Engineering\ncommercial_real_estate              ; Commercial Real Estate\ncomputer_and_network_security       ; Computer & Network Security\ncomputer_games                      ; Computer Games\ncomputer_hardware                   ; Computer Hardware\ncomputer_networking                 ; Computer Networking\ncomputer_software                   ; Computer Software\nconstruction                        ; Construction\nconsumer_electronics                ; Consumer Electronics\nconsumer_goods                      ; Consumer Goods\nconsumer_services                   ; Consumer Services\ncosmetics                           ; Cosmetics\ndairy                               ; Dairy\ndefense_and_space                   ; Defense & Space\ndesign                              ; Design\neducation_management                ; Education Management\ne-learning                          ; E-Learning\nelectrical_electronic_manufacturing ; Electrical/Electronic Manufacturing\nentertainment                       ; Entertainment\nenvironmental_services              ; Environmental Services\nevents_services                     ; Events Services\nexecutive_office                    ; Executive Office\nfacilities_services                 ; Facilities Services\nfarming                             ; Farming\nfinancial_services                  ; Financial Services\nfine_art                            ; Fine Art\nfishery                             ; Fishery\nfood_and_beverages                  ; Food & Beverages\nfood_production                     ; Food Production\nfund-raising                        ; Fund-Raising\nfurniture                           ; Furniture\ngambling_and_casinos                ; Gambling & Casinos\nglass_ceramics_and_concrete 	    ; Glass, Ceramics & Concrete\ngovernment_administration           ; Government Administration\ngovernment_relations                ; Government Relations\ngraphic_design                      ; Graphic Design\nhealth_wellness_and_fitness 	    ; Health, Wellness and Fitness\nhigher_education                    ; Higher Education\nhospital_and_health_care            ; Hospital & Health Care\nhospitality                         ; Hospitality\nhuman_resources                     ; Human Resources\nimport_and_export                   ; Import and Export\nindividual_and_family_services      ; Individual & Family Services\nindustrial_automation               ; Industrial Automation\ninformation_services                ; Information Services\ninformation_technology_and_services ; Information Technology and Services\ninsurance                           ; Insurance\ninternational_affairs               ; International Affairs\ninternational_trade_and_development ; International Trade and Development\ninternet                            ; Internet\ninvestment_banking                  ; Investment Banking\ninvestment_management               ; Investment Management\njudiciary                           ; Judiciary\nlaw_enforcement                     ; Law Enforcement\nlaw_practice                        ; Law Practice\nlegal_services                      ; Legal Services\nlegislative_office                  ; Legislative Office\nleisure_travel_and_tourism 			; Leisure, Travel & Tourism\nlibraries                           ; Libraries\nlogistics_and_supply_chain          ; Logistics and Supply Chain\nluxury_goods_and_jewelry            ; Luxury Goods & Jewelry\nmachinery                           ; Machinery\nmanagement_consulting               ; Management Consulting\nmaritime                            ; Maritime\nmarketing_and_advertising           ; Marketing and Advertising\nmarket_research                     ; Market Research\nmechanical_or_industrial_engineering; Mechanical or Industrial Engineering\nmedia_production                    ; Media Production\nmedical_devices                     ; Medical Devices\nmedical_practice                    ; Medical Practice\nmental_health_care                  ; Mental Health Care\nmilitary                            ; Military\nmining_and_metals                   ; Mining & Metals\nmotion_pictures_and_film            ; Motion Pictures and Film\nmuseums_and_institutions            ; Museums and Institutions\nmusic                               ; Music\nnanotechnology                      ; Nanotechnology\nnewspapers                          ; Newspapers\nnonprofit_organization_management   ; Nonprofit Organization Management\noil_and_energy                      ; Oil & Energy\nonline_media                        ; Online Media\noutsourcing_offshoring              ; Outsourcing/Offshoring\npackage_freight_delivery            ; Package/Freight Delivery\npackaging_and_containers            ; Packaging and Containers\npaper_and_forest_products           ; Paper & Forest Products\nperforming_arts                     ; Performing Arts\npharmaceuticals                     ; Pharmaceuticals\nphilanthropy                        ; Philanthropy\nphotography                         ; Photography\nplastics                            ; Plastics\npolitical_organization              ; Political Organization\nprimary_secondary_education         ; Primary/Secondary Education\nprinting                            ; Printing\nprofessional_training_and_coaching  ; Professional Training & Coaching\nprogram_development                 ; Program Development\npublic_policy                       ; Public Policy\npublic_relations_and_communications ; Public Relations and Communications\npublic_safety                       ; Public Safety\npublishing                          ; Publishing\nrailroad_manufacture                ; Railroad Manufacture\nranching                            ; Ranching\nreal_estate                         ; Real Estate\nrecreational_facilities_and_services; Recreational Facilities and Services\nreligious_institutions              ; Religious Institutions\nrenewables_and_environment          ; Renewables & Environment\nresearch                            ; Research\nrestaurants                         ; Restaurants\nretail                              ; Retail\nsecurity_and_investigations         ; Security and Investigations\nsemiconductors                      ; Semiconductors\nshipbuilding                        ; Shipbuilding\nsporting_goods                      ; Sporting Goods\nsports                              ; Sports\nstaffing_and_recruiting             ; Staffing and Recruiting\nsupermarkets                        ; Supermarkets\ntelecommunications                  ; Telecommunications\ntextiles                            ; Textiles\nthink_tanks                         ; Think Tanks\ntobacco                             ; Tobacco\ntranslation_and_localization        ; Translation and Localization\ntransportation_trucking_railroad    ; Transportation/Trucking/Railroad\nutilities                           ; Utilities\nventure_capital_and_private_equity  ; Venture Capital & Private Equity\nveterinary                          ; Veterinary\nwarehousing                         ; Warehousing\nwholesale                           ; Wholesale\nwine_and_spirits                    ; Wine and Spirits\nwireless                            ; Wireless\nwriting_and_editing                 ; Writing and Editing",
-					"settings":
-					{
-						"buffer_size": 8218,
-						"line_ending": "Unix",
-						"name": "accounting                          ; Accounting"
-					}
-				},
-				{
-					"contents": "47  => Accounting,\n94  => Airlines/Aviation,\n120 => Alternative Dispute Resolution,\n125 => Alternative Medicine,\n127 => Animation,\n19  => Apparel & Fashion,\n50  => Architecture & Planning,\n111 => Arts and Crafts,\n53  => Automotive,\n52  => Aviation & Aerospace,\n41  => Banking,\n12  => Biotechnology,\n36  => Broadcast Media,\n49  => Building Materials,\n138 => Business Supplies and Equipment,\n129 => Capital Markets,\n54  => Chemicals,\n90  => Civic & Social Organization,\n51  => Civil Engineering,\n128 => Commercial Real Estate,\n118 => Computer & Network Security,\n109 => Computer Games,\n3   => Computer Hardware,\n5   => Computer Networking,\n4   => Computer Software,\n48  => Construction,\n24  => Consumer Electronics,\n25  => Consumer Goods,\n91  => Consumer Services,\n18  => Cosmetics,\n65  => Dairy,\n1   => Defense & Space,\n99  => Design,\n69  => Education Management,\n132 => E-Learning,\n112 => Electrical/Electronic Manufacturing,\n28  => Entertainment,\n86  => Environmental Services,\n110 => Events Services,\n76  => Executive Office,\n122 => Facilities Services,\n63  => Farming,\n43  => Financial Services,\n38  => Fine Art,\n66  => Fishery,\n34  => Food & Beverages,\n23  => Food Production,\n101 => Fund-Raising,\n26  => Furniture,\n29  => Gambling & Casinos,\n145 => Glass, Ceramics & Concrete,\n75  => Government Administration,\n148 => Government Relations,\n140 => Graphic Design,\n124 => Health, Wellness and Fitness,\n68  => Higher Education,\n14  => Hospital & Health Care,\n31  => Hospitality,\n137 => Human Resources,\n134 => Import and Export,\n88  => Individual & Family Services,\n147 => Industrial Automation,\n84  => Information Services,\n96  => Information Technology and Services,\n42  => Insurance,\n74  => International Affairs,\n141 => International Trade and Development,\n6   => Internet,\n45  => Investment Banking,\n46  => Investment Management,\n73  => Judiciary,\n77  => Law Enforcement,\n9   => Law Practice,\n10  => Legal Services,\n72  => Legislative Office,\n30  => Leisure, Travel & Tourism,\n85  => Libraries,\n116 => Logistics and Supply Chain,\n143 => Luxury Goods & Jewelry,\n55  => Machinery,\n11  => Management Consulting,\n95  => Maritime,\n80  => Marketing and Advertising,\n97  => Market Research,\n135 => Mechanical or Industrial Engineering,\n126 => Media Production,\n17  => Medical Devices,\n13  => Medical Practice,\n139 => Mental Health Care,\n71  => Military,\n56  => Mining & Metals,\n35  => Motion Pictures and Film,\n37  => Museums and Institutions,\n115 => Music,\n114 => Nanotechnology,\n81  => Newspapers,\n100 => Nonprofit Organization Management,\n57  => Oil & Energy,\n113 => Online Media,\n123 => Outsourcing/Offshoring,\n87  => Package/Freight Delivery,\n146 => Packaging and Containers,\n61  => Paper & Forest Products,\n39  => Performing Arts,\n15  => Pharmaceuticals,\n131 => Philanthropy,\n136 => Photography,\n117 => Plastics,\n107 => Political Organization,\n67  => Primary/Secondary Education,\n83  => Printing,\n105 => Professional Training & Coaching,\n102 => Program Development,\n79  => Public Policy,\n98  => Public Relations and Communications,\n78  => Public Safety,\n82  => Publishing,\n62  => Railroad Manufacture,\n64  => Ranching,\n44  => Real Estate,\n40  => Recreational Facilities and Services,\n89  => Religious Institutions,\n144 => Renewables & Environment,\n70  => Research,\n32  => Restaurants,\n27  => Retail,\n121 => Security and Investigations,\n7   => Semiconductors,\n58  => Shipbuilding,\n20  => Sporting Goods,\n33  => Sports,\n104 => Staffing and Recruiting,\n22  => Supermarkets,\n8   => Telecommunications,\n60  => Textiles,\n130 => Think Tanks,\n21  => Tobacco,\n108 => Translation and Localization,\n92  => Transportation/Trucking/Railroad,\n59  => Utilities,\n106 => Venture Capital & Private Equity,\n16  => Veterinary,\n93  => Warehousing,\n133 => Wholesale,\n142 => Wine and Spirits,\n119 => Wireless,\n103 => Writing and Editing,",
-					"settings":
-					{
-						"buffer_size": 3820,
-						"line_ending": "Unix",
-						"name": "47  => Accounting,"
-					}
-				},
-				{
-					"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/vendor/sigurdsvela/wp-objectly/oowp/core/Enum.php",
-					"settings":
-					{
-						"buffer_size": 4253,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 46,
+						"buffer_size": 1067,
 						"line_ending": "Unix"
 					}
 				}
@@ -253,39 +247,46 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 147.0,
-				"last_filter": "insta",
+				"height": 354.0,
+				"last_filter": "si",
 				"selected_items":
 				[
 					[
-						"insta",
+						"si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
 						"Package Control: Install Package"
 					],
 					[
 						"Insta",
-						"Package Control: Install Local Dependency"
+						"Package Control: Install Package"
 					],
 					[
-						"Install Package",
-						"Package Control: Advanced Install Package"
-					],
-					[
-						"Install",
-						"Package Control: Install Local Dependency"
-					],
-					[
-						"Align",
+						"Packa",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 593.0
+				"width": 575.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -299,28 +300,32 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc",
-				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core",
-				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc"
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc"
 			],
 			"file_history":
 			[
-				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/Industry.php",
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+				"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit/core/postWrapper/PublicationWrapper.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit/templates/content-tableviewer-digital.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/src/js/ProductView.js",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/core/Product.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/home.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/dist/css/base/main.css",
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/functions.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/NrccUser.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/Movefile",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-config.php",
+				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 46.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 158.0,
 				"where_history":
 				[
+					"/Users/sigurdsvela/Documents/Projects/mekom/loqi"
 				]
 			},
 			"find_state":
@@ -328,39 +333,15 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					";\n",
-					"=>",
-					";",
-					"&amp;",
-					";",
-					"<option value=",
-					"serialize",
-					"slug",
-					"Slug",
-					"slug",
-					"Slug",
-					"slug",
-					"\"slug\"",
-					"slug",
-					",",
-					"slug",
-					":",
-					"\",",
-					"    \n",
-					"array(",
-					"Program Development",
-					"linkedin_code",
-					"<option value=",
-					"\", \"",
-					"array(\"name\" => \"",
-					",",
-					";[^\\S\\n]*",
-					","
+					",\n",
+					"word-wrap:\\w*break-word;\\w*white-space:\\w*pre-wrap;",
+					"word-wrap: break-word; white-space: pre-wrap;",
+					"style=\"word-wrap: break-word; white-space: pre-wrap;\""
 				],
-				"highlight": false,
+				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
 				],
@@ -368,7 +349,7 @@
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"folders":
 			[
@@ -379,880 +360,63 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/NrccUser.php",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 6690,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/functions.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4309,
+								"buffer_size": 7264,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										41,
-										41
+										1247,
+										1247
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/PHP/PHP.tmLanguage"
 								},
-								"translation.x": 0.0,
-								"translation.y": 5.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 566,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										237,
-										237
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3103,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3103,
-										3103
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1130,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										237,
-										237
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.x": -0.0,
+								"translation.y": 248.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/import-tags.php",
+							"buffer": 1,
+							"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/post/School.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4524,
+								"buffer_size": 1067,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4522,
-										4522
+										1016,
+										1028
 									]
 								],
 								"settings":
 								{
-									"auto_name": "import-tags.php",
 									"syntax": "Packages/PHP/PHP.tmLanguage"
 								},
-								"translation.x": 0.0,
-								"translation.y": 2014.0,
+								"translation.x": -0.0,
+								"translation.y": 25.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8218,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1191,
-										1205
-									]
-								],
-								"settings":
-								{
-									"auto_name": "accounting                          ; Accounting",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 3.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3820,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										18,
-										0
-									],
-									[
-										44,
-										19
-									],
-									[
-										83,
-										45
-									],
-									[
-										112,
-										84
-									],
-									[
-										130,
-										113
-									],
-									[
-										156,
-										131
-									],
-									[
-										188,
-										157
-									],
-									[
-										212,
-										189
-									],
-									[
-										231,
-										213
-									],
-									[
-										260,
-										232
-									],
-									[
-										276,
-										261
-									],
-									[
-										298,
-										277
-									],
-									[
-										322,
-										299
-									],
-									[
-										349,
-										323
-									],
-									[
-										389,
-										350
-									],
-									[
-										413,
-										390
-									],
-									[
-										431,
-										414
-									],
-									[
-										467,
-										432
-									],
-									[
-										493,
-										468
-									],
-									[
-										524,
-										494
-									],
-									[
-										560,
-										525
-									],
-									[
-										583,
-										561
-									],
-									[
-										609,
-										584
-									],
-									[
-										637,
-										610
-									],
-									[
-										663,
-										638
-									],
-									[
-										684,
-										664
-									],
-									[
-										713,
-										685
-									],
-									[
-										736,
-										714
-									],
-									[
-										762,
-										737
-									],
-									[
-										780,
-										763
-									],
-									[
-										794,
-										781
-									],
-									[
-										818,
-										795
-									],
-									[
-										833,
-										819
-									],
-									[
-										862,
-										834
-									],
-									[
-										881,
-										863
-									],
-									[
-										925,
-										882
-									],
-									[
-										947,
-										926
-									],
-									[
-										978,
-										948
-									],
-									[
-										1002,
-										979
-									],
-									[
-										1027,
-										1003
-									],
-									[
-										1055,
-										1028
-									],
-									[
-										1071,
-										1056
-									],
-									[
-										1098,
-										1072
-									],
-									[
-										1115,
-										1099
-									],
-									[
-										1131,
-										1116
-									],
-									[
-										1156,
-										1132
-									],
-									[
-										1180,
-										1157
-									],
-									[
-										1201,
-										1181
-									],
-									[
-										1219,
-										1202
-									],
-									[
-										1246,
-										1220
-									],
-									[
-										1281,
-										1247
-									],
-									[
-										1315,
-										1282
-									],
-									[
-										1344,
-										1316
-									],
-									[
-										1367,
-										1345
-									],
-									[
-										1404,
-										1368
-									],
-									[
-										1429,
-										1405
-									],
-									[
-										1460,
-										1430
-									],
-									[
-										1480,
-										1461
-									],
-									[
-										1504,
-										1481
-									],
-									[
-										1530,
-										1505
-									],
-									[
-										1567,
-										1531
-									],
-									[
-										1597,
-										1568
-									],
-									[
-										1626,
-										1598
-									],
-									[
-										1670,
-										1627
-									],
-									[
-										1688,
-										1671
-									],
-									[
-										1718,
-										1689
-									],
-									[
-										1762,
-										1719
-									],
-									[
-										1779,
-										1763
-									],
-									[
-										1806,
-										1780
-									],
-									[
-										1836,
-										1807
-									],
-									[
-										1854,
-										1837
-									],
-									[
-										1878,
-										1855
-									],
-									[
-										1899,
-										1879
-									],
-									[
-										1922,
-										1900
-									],
-									[
-										1949,
-										1923
-									],
-									[
-										1983,
-										1950
-									],
-									[
-										2001,
-										1984
-									],
-									[
-										2036,
-										2002
-									],
-									[
-										2067,
-										2037
-									],
-									[
-										2085,
-										2068
-									],
-									[
-										2115,
-										2086
-									],
-									[
-										2132,
-										2116
-									],
-									[
-										2166,
-										2133
-									],
-									[
-										2190,
-										2167
-									],
-									[
-										2235,
-										2191
-									],
-									[
-										2260,
-										2236
-									],
-									[
-										2284,
-										2261
-									],
-									[
-										2309,
-										2285
-									],
-									[
-										2336,
-										2310
-									],
-									[
-										2353,
-										2337
-									],
-									[
-										2377,
-										2354
-									],
-									[
-										2410,
-										2378
-									],
-									[
-										2443,
-										2411
-									],
-									[
-										2457,
-										2444
-									],
-									[
-										2480,
-										2458
-									],
-									[
-										2499,
-										2481
-									],
-									[
-										2541,
-										2500
-									],
-									[
-										2562,
-										2542
-									],
-									[
-										2583,
-										2563
-									],
-									[
-										2614,
-										2584
-									],
-									[
-										2647,
-										2615
-									],
-									[
-										2680,
-										2648
-									],
-									[
-										2712,
-										2681
-									],
-									[
-										2736,
-										2713
-									],
-									[
-										2760,
-										2737
-									],
-									[
-										2781,
-										2761
-									],
-									[
-										2801,
-										2782
-									],
-									[
-										2818,
-										2802
-									],
-									[
-										2849,
-										2819
-									],
-									[
-										2885,
-										2850
-									],
-									[
-										2902,
-										2886
-									],
-									[
-										2943,
-										2903
-									],
-									[
-										2971,
-										2944
-									],
-									[
-										2993,
-										2972
-									],
-									[
-										3037,
-										2994
-									],
-									[
-										3059,
-										3038
-									],
-									[
-										3078,
-										3060
-									],
-									[
-										3107,
-										3079
-									],
-									[
-										3124,
-										3108
-									],
-									[
-										3144,
-										3125
-									],
-									[
-										3189,
-										3145
-									],
-									[
-										3220,
-										3190
-									],
-									[
-										3253,
-										3221
-									],
-									[
-										3270,
-										3254
-									],
-									[
-										3290,
-										3271
-									],
-									[
-										3305,
-										3291
-									],
-									[
-										3341,
-										3306
-									],
-									[
-										3364,
-										3342
-									],
-									[
-										3385,
-										3365
-									],
-									[
-										3408,
-										3386
-									],
-									[
-										3423,
-										3409
-									],
-									[
-										3455,
-										3424
-									],
-									[
-										3476,
-										3456
-									],
-									[
-										3503,
-										3477
-									],
-									[
-										3520,
-										3504
-									],
-									[
-										3540,
-										3521
-									],
-									[
-										3556,
-										3541
-									],
-									[
-										3593,
-										3557
-									],
-									[
-										3634,
-										3594
-									],
-									[
-										3652,
-										3635
-									],
-									[
-										3693,
-										3653
-									],
-									[
-										3712,
-										3694
-									],
-									[
-										3732,
-										3713
-									],
-									[
-										3750,
-										3733
-									],
-									[
-										3775,
-										3751
-									],
-									[
-										3792,
-										3776
-									],
-									[
-										3820,
-										3793
-									]
-								],
-								"settings":
-								{
-									"auto_name": "47  => Accounting,",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 3.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/vendor/sigurdsvela/wp-objectly/oowp/core/Enum.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4253,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2391,
-										2393
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1442.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 46,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										41,
-										41
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1260,11 +424,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 30.0
 			},
 			"input":
 			{
-				"height": 31.0
+				"height": 68.0
 			},
 			"layout":
 			{
@@ -1294,11 +458,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "1 960 248 640 502 0 0 2560 1057 ",
+			"position": "1 306 155 1308 700 0 0 1920 1057 ",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1308,16 +472,24 @@
 				"selected_items":
 				[
 					[
-						"indus",
-						"core/nrcc/Industry.php"
+						"school",
+						"core/nrcc/post/School.php"
 					],
 					[
-						"function",
+						"func",
 						"functions.php"
 					],
 					[
-						"/core/enum",
-						"vendor/sigurdsvela/wp-objectly/oowp/core/Enum.php"
+						"publication",
+						"core/postWrapper/PublicationWrapper.php"
+					],
+					[
+						"table",
+						"templates/content-tableviewer-digital.php"
+					],
+					[
+						"tableview",
+						"templates/content-tableviewer-digital.php"
 					]
 				],
 				"width": 0.0
@@ -1348,12 +520,284 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 233.0,
+			"side_bar_width": 221.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 2,
+			"window_id": 23,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"produ",
+						"products"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 21,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "si",
+				"selected_items":
+				[
+					[
+						"si",
+						"View: Toggle Side Bar"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"yaml",
+						"Set Syntax: YAML"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit/core/postWrapper/PublicationWrapper.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/mediekit/wp-content/themes/mediekit/templates/content-tableviewer-digital.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/src/js/ProductView.js",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/core/Product.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/home.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-content/themes/loqi/dist/css/base/main.css",
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/functions.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/nrcc/wp-content/themes/nrcc/core/nrcc/NrccUser.php",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/Movefile",
+				"/Users/sigurdsvela/Documents/Projects/mekom/loqi/wp-config.php",
+				"/Users/sigurdsvela/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"/Users/sigurdsvela/Documents/Projects/mekom/loqi"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					",\n",
+					"word-wrap:\\w*break-word;\\w*white-space:\\w*pre-wrap;",
+					"word-wrap: break-word; white-space: pre-wrap;",
+					"style=\"word-wrap: break-word; white-space: pre-wrap;\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/sigurdsvela/Library/Application Support/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20,
+										20
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 306 155 1308 700 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"school",
+						"core/nrcc/post/School.php"
+					],
+					[
+						"func",
+						"functions.php"
+					],
+					[
+						"publication",
+						"core/postWrapper/PublicationWrapper.php"
+					],
+					[
+						"table",
+						"templates/content-tableviewer-digital.php"
+					],
+					[
+						"tableview",
+						"templates/content-tableviewer-digital.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 221.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
 			"workspace_name": ""
 		}
 	],
